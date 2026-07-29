@@ -2,7 +2,7 @@
 
 An intelligent desktop-based AI Voice Assistant built with **Python**, **Eel**, **HTML**, **CSS**, and **JavaScript** that enables users to interact with their computer through natural voice commands. Sophia automates everyday desktop tasks such as opening applications, launching websites, playing YouTube content, and providing spoken responses through an intuitive graphical interface.
 
-Developed as a **Final Year Project** for the Bachelor of Science in Computer Science program at the University of Agriculture, Faisalabad. The project combines voice recognition, desktop automation, database-driven command execution, and an interactive frontend to deliver a seamless user experience. :contentReference[oaicite:0]{index=0}
+Developed as a **Final Year Project** for the Bachelor of Science in Computer Science program at the University of Agriculture, Faisalabad. The project combines voice recognition, desktop automation, database-driven command execution, and an interactive frontend to deliver a seamless user experience. 
 
 ---
 
